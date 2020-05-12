@@ -25,6 +25,7 @@
     "mocha": "^5.2.0",
     "mochawesome": "^4.1.0",
     "mochawesome-report-generator": "^4.1.0",
+    "node-ews": "^3.4.2",
     "puppeteer": "^2.0.0",
     "ts-loader": "^6.2.1",
     "typescript": "^3.7.4",
